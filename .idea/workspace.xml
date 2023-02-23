@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41b31f72-ee5e-4d4c-9c55-7f91b2cc5054" name="Changes" comment="d">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level0/p120889/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/level0/p120889/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="41b31f72-ee5e-4d4c-9c55-7f91b2cc5054" name="Changes" comment="d" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +43,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.38390803",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -118,7 +114,7 @@
       <workItem from="1677033211750" duration="9098000" />
       <workItem from="1677110443795" duration="8063000" />
       <workItem from="1677127462093" duration="6793000" />
-      <workItem from="1677147861282" duration="3414000" />
+      <workItem from="1677147861282" duration="3774000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1677026521844</created>
