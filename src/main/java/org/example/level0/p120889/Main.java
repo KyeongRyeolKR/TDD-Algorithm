@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
     }
 }
-// t
+
 class Solution {
     public int solution(int[] sides) {
         Arrays.sort(sides);
