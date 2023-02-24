@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
+//
 public class Tests {
     @Test
     @DisplayName("[1, 2, 3, 4, 5], 1, 3 이 전달될 때 => [2, 3, 4]")
